@@ -95,6 +95,15 @@ Watch GitGenie in action! See how the platform streamlines repository management
 - GitHub OAuth App
 - OpenAI API key
 
+
+### AI Usage (During Development)
+- Used AI tools to draft the initial structure for the API endpoints, authentication flow, and Git server integration logic.
+- Generated initial PostgreSQL schema for users, repositories, sessions, and AI-assisted coding sessions.
+- Used AI to scaffold React components, dashboard layouts, and state management logic.
+- Consulted AI tools for integrating OpenAI/Claude APIs securely, managing tokens, and designing prompt structures for code generation and explanations.
+- AI assisted in generating README content, feature explanations, and usage instructions for better presentation.
+
+
 ### Installation
 
 1. **Clone the repository**
