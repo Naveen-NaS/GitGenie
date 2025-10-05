@@ -16,7 +16,7 @@ Watch GitGenie in action! See how the platform streamlines repository management
 
 [![GitGenie Demo Video](https://img.shields.io/badge/▶️%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/206Ojy7Mvtw)
 
-**🔗 Direct Link:** https://youtu.be/206Ojy7Mvtw
+**🔗 Direct Link:** https://youtu.be/DOt7I4D32g4
 
 ## ✨ Features
 
